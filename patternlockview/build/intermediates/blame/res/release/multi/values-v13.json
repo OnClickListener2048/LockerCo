@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

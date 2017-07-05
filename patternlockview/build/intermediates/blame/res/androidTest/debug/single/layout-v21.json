@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v21/notification_action.xml"
+    }
+]

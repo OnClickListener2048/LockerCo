@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:3:5-45
+	android:versionName
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:7:22-81
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:12:5-71:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/wangxin/.android/build-cache/c8b2b25fb870f9f70ecebd9d2fcd705a3f5feb41/output/AndroidManifest.xml:9:5-20
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/wangxin/.android/build-cache/62432a8eb64989d8805d7c557dc77f2073f7d3ae/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/wangxin/.android/build-cache/27d603f05fd6451e566cf395ab37f9b9e6f4781e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/wangxin/.android/build-cache/9e07a86f96cbd360fcaae9081bfe59280c30bbc7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/wangxin/.android/build-cache/0fa35107f5778b012a52b1696b7d017ad8f8a8bd/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/wangxin/.android/build-cache/e9a99d26930d8394697fb87d3cc1a611402c81d7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/wangxin/.android/build-cache/007163be63ee2c49f9a7b70a4b12d532a32a1fa7/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/wangxin/.android/build-cache/947918412862a22588a388ae6a86c2045615fbe3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/wangxin/.android/build-cache/bdd8b630f23cc0a722e8b2b8775eb8feee6b4972/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/wangxin/.android/build-cache/167d5e806ef7f08b84bf426fe1018b1dcb5344cd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/wangxin/.android/build-cache/adf02ae68d0182f98af7e5644b45620d44c6d7c1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/wangxin/.android/build-cache/c924e5600840cb7c7f795cddcd4da7709c509e86/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/wangxin/.android/build-cache/eb28c0644b5d33c70d6024b37e0dd93e772cd5f7/output/AndroidManifest.xml:29:5-20
+MERGED from [net.qiujuer.genius:blur:2.0.0-beta4] /Users/wangxin/.android/build-cache/b872c815a89cbec6f0062d42bb6e3ef4bc830881/output/AndroidManifest.xml:11:5-13:38
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/wangxin/.android/build-cache/2006fb8ed540b4eb27bec3c571bdf978aa32927b/output/AndroidManifest.xml:24:5-46:19
+	android:label
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:15:9-38
+	android:theme
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.andrognito.patternlockdemo.MainActivity
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:19:9-23:20
+	android:launchMode
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:21:13-43
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:20:13-41
+service#com.andrognito.patternlockdemo.MyService
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:25:9-30:44
+	android:enabled
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:27:13-35
+	android:label
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:30:13-41
+	android:exported
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:28:13-36
+	android:icon
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:29:13-51
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:26:13-38
+activity#com.andrognito.patternlockdemo.LanucherActivity
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:32:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:36:27-74
+service#com.andrognito.patternlockdemo.JobSchedulerService
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:40:9-42:72
+	android:permission
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:42:13-69
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:41:13-48
+activity#me.iwf.photopicker.PhotoPickerActivity
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:43:9-45:15
+	android:theme
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:43:19-72
+activity#me.iwf.photopicker.PhotoPagerActivity
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:47:9-48:65
+	android:theme
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:48:13-63
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:47:19-71
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:49:9-52:45
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/wangxin/.android/build-cache/2006fb8ed540b4eb27bec3c571bdf978aa32927b/output/AndroidManifest.xml:25:9-28:45
+	android:enabled
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:51:13-36
+	android:process
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:52:13-42
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:50:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:53:9-55:39
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/wangxin/.android/build-cache/2006fb8ed540b4eb27bec3c571bdf978aa32927b/output/AndroidManifest.xml:29:9-31:39
+	android:enabled
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:54:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:57:9-69:20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/wangxin/.android/build-cache/2006fb8ed540b4eb27bec3c571bdf978aa32927b/output/AndroidManifest.xml:33:9-45:20
+	android:enabled
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:59:13-36
+	android:label
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:61:13-73
+	android:icon
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:60:13-56
+	android:theme
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:63:13-53
+	android:taskAffinity
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:62:13-59
+	android:name
+		ADDED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml:58:13-80
+uses-sdk
+INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.andrognito.patternlockview:patternlockview-reactive:1.0.0] /Users/wangxin/Downloads/PatternLockView-master/patternlockview-reactive/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [com.andrognito.patternlockview:patternlockview:1.0.0] /Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/wangxin/.android/build-cache/d393a109627e509d4363a3acddb003a4237002e0/output/AndroidManifest.xml:19:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/wangxin/.android/build-cache/c8b2b25fb870f9f70ecebd9d2fcd705a3f5feb41/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] /Users/wangxin/.android/build-cache/62432a8eb64989d8805d7c557dc77f2073f7d3ae/output/AndroidManifest.xml:7:5-9:41
+MERGED from [me.iwf.photopicker:PhotoPicker:0.1.8] /Users/wangxin/.android/build-cache/dacd4909e335df75ef7f9a2d99f047de7f1452a0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/wangxin/.android/build-cache/27d603f05fd6451e566cf395ab37f9b9e6f4781e/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/wangxin/.android/build-cache/9e07a86f96cbd360fcaae9081bfe59280c30bbc7/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/wangxin/.android/build-cache/0fa35107f5778b012a52b1696b7d017ad8f8a8bd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/wangxin/.android/build-cache/e9a99d26930d8394697fb87d3cc1a611402c81d7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/wangxin/.android/build-cache/4bc8196a556c7df4b5f75b54c1c250de40c6b9d5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/wangxin/.android/build-cache/007163be63ee2c49f9a7b70a4b12d532a32a1fa7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/wangxin/.android/build-cache/947918412862a22588a388ae6a86c2045615fbe3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/wangxin/.android/build-cache/bdd8b630f23cc0a722e8b2b8775eb8feee6b4972/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/wangxin/.android/build-cache/167d5e806ef7f08b84bf426fe1018b1dcb5344cd/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/wangxin/.android/build-cache/adf02ae68d0182f98af7e5644b45620d44c6d7c1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/wangxin/.android/build-cache/c924e5600840cb7c7f795cddcd4da7709c509e86/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/wangxin/.android/build-cache/eb28c0644b5d33c70d6024b37e0dd93e772cd5f7/output/AndroidManifest.xml:21:5-23:58
+MERGED from [net.qiujuer.genius:blur:2.0.0-beta4] /Users/wangxin/.android/build-cache/b872c815a89cbec6f0062d42bb6e3ef4bc830881/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/wangxin/.android/build-cache/2006fb8ed540b4eb27bec3c571bdf978aa32927b/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/wangxin/.android/build-cache/27d603f05fd6451e566cf395ab37f9b9e6f4781e/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangxin/Downloads/PatternLockView-master/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/wangxin/.android/build-cache/27d603f05fd6451e566cf395ab37f9b9e6f4781e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/wangxin/.android/build-cache/9e07a86f96cbd360fcaae9081bfe59280c30bbc7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/wangxin/.android/build-cache/0fa35107f5778b012a52b1696b7d017ad8f8a8bd/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/wangxin/.android/build-cache/e9a99d26930d8394697fb87d3cc1a611402c81d7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/wangxin/.android/build-cache/4bc8196a556c7df4b5f75b54c1c250de40c6b9d5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/wangxin/.android/build-cache/007163be63ee2c49f9a7b70a4b12d532a32a1fa7/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/wangxin/.android/build-cache/947918412862a22588a388ae6a86c2045615fbe3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/wangxin/.android/build-cache/bdd8b630f23cc0a722e8b2b8775eb8feee6b4972/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/wangxin/.android/build-cache/167d5e806ef7f08b84bf426fe1018b1dcb5344cd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/wangxin/.android/build-cache/adf02ae68d0182f98af7e5644b45620d44c6d7c1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/wangxin/.android/build-cache/c924e5600840cb7c7f795cddcd4da7709c509e86/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/wangxin/.android/build-cache/eb28c0644b5d33c70d6024b37e0dd93e772cd5f7/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/wangxin/.android/build-cache/27d603f05fd6451e566cf395ab37f9b9e6f4781e/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/wangxin/.android/build-cache/27d603f05fd6451e566cf395ab37f9b9e6f4781e/output/AndroidManifest.xml:26:9-47

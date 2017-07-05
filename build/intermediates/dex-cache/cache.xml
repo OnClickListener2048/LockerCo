@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/wangxin/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3/632482a61ad24b7ec864072945d221369f9a606/leakcanary-watcher-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0632482a61ad24b7ec864072945d221369f9a606">
+        <dex dex="/Users/wangxin/Downloads/PatternLockView-master/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3_df96387018f56953f8306d6171c7d99866cea4a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxin/.android/build-cache/2006fb8ed540b4eb27bec3c571bdf978aa32927b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4e7adebf49e683db82fb6efac2caaf3d768b8d4">
+        <dex dex="/Users/wangxin/Downloads/PatternLockView-master/app/build/intermediates/pre-dexed/debug/classes_324d61ba6a48ae9e85abfd68404f23dc551882bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxin/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3/c5399b18a672f7973c8a9b9d6b731a3a36e590cc/leakcanary-analyzer-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5399b18a672f7973c8a9b9d6b731a3a36e590cc">
+        <dex dex="/Users/wangxin/Downloads/PatternLockView-master/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3_05bc9a0de55c36f95f852f71c8d66a51444ae921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxin/Downloads/PatternLockView-master/patternlockview-reactive/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="770c657fc4d803f7e6ead8046694827fc8be4230">
+        <dex dex="/Users/wangxin/Downloads/PatternLockView-master/app/build/intermediates/pre-dexed/debug/classes_bb3ccdc5f7e01501a586c9dcc85658b8b35ec35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxin/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.1/b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635/haha-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b7b2e61ee1ad2d1ac6ae3122de9c940fb0d0e635">
+        <dex dex="/Users/wangxin/Downloads/PatternLockView-master/app/build/intermediates/pre-dexed/debug/haha-1.1_23567613295d3357a7ab0248f779a25884e44e1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db6b24f81c26ae2d75ad1109068ee24130d39f95">
+        <dex dex="/Users/wangxin/Downloads/PatternLockView-master/app/build/intermediates/pre-dexed/debug/classes_2c95e7561b6a47af922619fee1f468c26a6b3b41.jar" />
+    </item>
+
+</items>

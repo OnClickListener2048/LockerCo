@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="PhotoPicker-0.1.8">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/dacd4909e335df75ef7f9a2d99f047de7f1452a0/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/dacd4909e335df75ef7f9a2d99f047de7f1452a0/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.iwf.photopicker/PhotoPicker/0.1.8/2e5a2373abc4772c2b541b0cf16262041e84abf7/PhotoPicker-0.1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

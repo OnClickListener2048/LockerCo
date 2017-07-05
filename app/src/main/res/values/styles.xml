@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/header</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/white</item>
+        <!--<item name="android:activityCloseExitAnimation">@anim/activity_close</item>-->
+        <!--<item name="android:activityCloseEnterAnimation">@anim/activity_close</item>-->
+        <!--<item name="android:windowExitAnimation">@anim/activity_close</item>-->
+    </style>
+
+
+    <style name="FloatActivity" parent="android:style/Theme.Dialog">
+    </style>
+
+
+</resources>

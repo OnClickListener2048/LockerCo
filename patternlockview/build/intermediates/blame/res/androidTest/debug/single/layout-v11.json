@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/wangxin/Downloads/PatternLockView-master/patternlockview/build/intermediates/res/merged/androidTest/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/wangxin/.android/build-cache/a31899e82dc769035e7b9bba3aa18d9395761aa6/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]
