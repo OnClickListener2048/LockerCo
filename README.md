@@ -1,5 +1,4 @@
 
-# License
 
 ```
 Copyright 2017 aritraroy
